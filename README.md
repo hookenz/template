@@ -1,2 +1,10 @@
 # template
-A starting point for golang + react applications
+An opinionated starting point for golang + react applications
+
+## Defaults
+- golang + echo router
+- yarn
+- typescript
+- react
+- tailwind
+- vite
